@@ -12,7 +12,7 @@ Para cada tentativa realizada do questionário o programa gera uma pasta com o n
 ### Como usar
 
 ```
-python3 scrapy.py [-h] username
+python3 scrapy.py username
 ```
 
 onde `username` é o CPF do usuário. Será pedido a senha e a página com as tentativas do quiz.
