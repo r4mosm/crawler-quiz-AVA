@@ -5,7 +5,7 @@ import os
 import pathlib
 from urllib.parse import urlparse
 
-parser = argparse.ArgumentParser(description="Login do AVA.")
+parser = argparse.ArgumentParser(description="Crawler Quiz.")
 parser.add_argument("username")
 args = parser.parse_args()
 
