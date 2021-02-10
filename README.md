@@ -1,7 +1,7 @@
-# Crawler para Quiz da plataforma AVA
+# Scrapper para Quiz da plataforma AVA
 
 
-Este crawler extrai dados do quiz ("recurso questionário"). 
+Este scrapper extrai dados do quiz (recurso questionário). 
 
 Para cada tentativa realizada do questionário o programa gera uma pasta com o nome do aluno que fez a tentativa e que contém: 
 
