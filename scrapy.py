@@ -1,3 +1,10 @@
+#
+#  scrapy.py
+#
+#  Criado por Marlon Ramos em 09/02/21.
+#  Email: m4rlon@me.com
+#
+
 import argparse
 import mechanicalsoup
 from getpass import getpass
