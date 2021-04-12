@@ -26,4 +26,4 @@ onde `username` é o CPF do usuário. Será pedido a senha e a página com as te
 
 Veja um exemplo de página que deve ser passada para o script. Para melhor controle, organize as tentativas por ordem alfabética do nome dos alunos.
 
-![alt text](https://github.com/r4mosm/crawler-quiz-AVA/blob/main/AVA_page_quiz.png?raw=true)
+![alt text](https://github.com/r4mosm/crawler-quiz-AVA/blob/main/AVA_page.png?raw=true)
